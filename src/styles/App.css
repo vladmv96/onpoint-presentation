@@ -1,0 +1,425 @@
+.navigation {
+    position: fixed;
+    margin: 0 0 0 990px;
+    top: 45%;
+    z-index: 1;
+}
+
+.nav-1,
+.nav-2,
+.nav-3 {
+    width: 13px;
+    height: 13px;
+    border-radius: 6px;
+    margin-bottom: 6px;
+}
+
+.section-1 {
+    color: rgb(13, 49, 156);
+    height: 768px;
+}
+
+.section-1 .header {
+    position: absolute;
+    padding: 150px 350px 0px 75px;
+    margin: 0px;
+    letter-spacing: -1px;
+    font-size: 50px;
+    font-family: "Gotham Pro";
+}
+
+.ellipse-1-1 {
+    position: absolute;
+    margin: 260px 0 0 562px;
+    width: 52px;
+    height: 52px;
+    border-radius: 26px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-1-2 {
+    margin: 5px;
+    width: 39px;
+    height: 39px;
+    border-radius: 20px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-1-3 {
+    margin: 11px;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background-image: radial-gradient(circle at center, #dd791b 1%, #cf1337 100%);
+}
+
+.ellipse-2-1 {
+    position: absolute;
+    margin: 425px 0 0 272px;
+    width: 27px;
+    height: 27px;
+    border-radius: 13px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-2-2 {
+    margin: 2px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-2-3 {
+    margin: 5px;
+    width: 11px;
+    height: 11px;
+    border-radius: 5px;
+    background-image: radial-gradient(circle at center, #dd791b 1%, #cf1337 100%);
+}
+
+.ellipse-3-1 {
+    position: absolute;
+    margin: 515px 0 0 820px;
+    width: 15px;
+    height: 15px;
+    border-radius: 7px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-3-2 {
+    margin: 1px;
+    width: 9px;
+    height: 9px;
+    border-radius: 10px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-3-3 {
+    margin: 3px;
+    width: 5px;
+    height: 5px;
+    border-radius: 2px;
+    background-image: radial-gradient(circle at center, #dd791b 1%, #cf1337 100%);
+}
+
+.ellipse-4-1 {
+    position: absolute;
+    margin: 533px 0 0 480px;
+    width: 15px;
+    height: 15px;
+    border-radius: 7px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-4-2 {
+    margin: 1px;
+    width: 9px;
+    height: 9px;
+    border-radius: 5px;
+    background-color: rgba(247, 139, 31, 0.2196078431372549);
+    border: 1px solid rgba(247, 139, 31, 0.2196078431372549);
+}
+
+.ellipse-4-3 {
+    margin: 3px;
+    width: 5px;
+    height: 5px;
+    border-radius: 2px;
+    background-image: radial-gradient(circle at center, #dd791b 1%, #cf1337 100%);
+}
+
+.target-1,
+.target-2,
+.target-3,
+.target-4 {
+    margin: 0px;
+    font-size: 20px;
+    font-family: "Lato";
+}
+
+.target-1 {
+    position: absolute;
+    padding: 275px 0px 0px 625px;
+}
+
+.target-2 {
+    position: absolute;
+    padding: 400px 0px 0px 225px;
+}
+
+.target-3 {
+    position: absolute;
+    padding: 485px 0px 0px 790px;
+}
+
+.target-4 {
+    position: absolute;
+    padding: 505px 0px 0px 385px;
+}
+
+.to-bottom-text {
+    position: absolute;
+    left: 47%;
+    bottom: 35px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    font-family: "Gotham Pro";
+}
+
+.arrow-to-bot {
+    position: absolute;
+    left: 50%;
+    bottom: 22px;
+    width: 40px;
+    height: 18px;
+}
+
+.section-2 {
+    height: 768px;
+}
+
+span {
+    position: absolute;
+    display: inline-block;
+}
+
+.deep-ice {
+    opacity: 0.5;
+}
+
+.ice1,
+.ice2,
+.ice3,
+.ice4 {
+    width: 50%;
+}
+
+.ice1 {
+    width: 40%;
+    margin: 950px 0px 0px 65px;
+}
+
+.ice2 {
+    width: 30%;
+    margin: 1215px 0px 0px 215px;
+}
+
+.ice3 {
+    width: 10%;
+    margin: 1370px 0px 0px 730px;
+}
+
+.ice4 {
+    width: 15%;
+    margin: 800px 0px 0px 869px;
+}
+
+.section-2 .header {
+    position: absolute;
+    padding: 200px 250px 0px 250px;
+    font-size: 50px;
+    letter-spacing: -1px;
+    color: rgb(255, 255, 255);
+    font-family: "Gotham Pro";
+    text-align: center;
+}
+
+.slider-nav {
+    position: absolute;
+    margin: 100px 0px 0px 150px;
+}
+
+.shape {
+    position: absolute;
+    width: 580px;
+    height: 11px;
+    margin: 580px 0 0 60px;
+    opacity: 0.5;
+}
+
+.shape-active {
+    position: absolute;
+    width: 580px;
+    max-width: 580;
+    height: 11.2px;
+    margin: 580px 0 0 60px;
+}
+
+#poligon {
+    position: absolute;
+    width: 43px;
+    height: 55px;
+}
+
+.poligon1 {
+    margin: 560px 0 0 60px;
+}
+
+.poligon2 {
+    margin: 560px 0 0 335px;
+}
+
+.poligon3 {
+    margin: 560px 0 0 610px;
+}
+
+
+.section-3 .header {
+    position: absolute;
+    margin: 95px 0px 0px 75px;
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: rgb(255, 255, 255);
+    font-family: Gotham Pro;
+}
+
+.ice111 {
+    position: absolute;
+    width: 40px;
+    margin: 100px 0px 0px 885px;
+
+}
+
+.ice121 {
+    position: absolute;
+    width: 100px;
+    margin: 200px 0px 0px 685px;
+}
+
+.ice131 {
+    position: absolute;
+    width: 220px;
+    margin: 530px 0px 0px 20px;
+}
+
+.ice112 {
+    position: absolute;
+    width: 40px;
+    margin: 100px 0px 0px 445px;
+
+}
+
+.ice122 {
+    position: absolute;
+    width: 100px;
+    margin: 200px 0px 0px 55px;
+}
+
+.ice132 {
+    position: absolute;
+    width: 220px;
+    margin: 530px 0px 0px 800px;
+}
+
+.ice113 {
+    position: absolute;
+    width: 40px;
+    margin: 100px 0px 0px 0px;
+
+}
+
+.ice123 {
+    position: absolute;
+    width: 100px;
+    margin: 200px 0px 0px 940px;
+}
+
+.ice133 {
+    position: absolute;
+    width: 220px;
+    margin: 530px 0px 0px 150px;
+    transform: rotate(-30deg)
+}
+
+ .card1 {
+    position: absolute;
+    width: 692px;
+    margin: 160px 0 0 150px;
+}
+
+.card2 {
+    position: absolute;
+    width: 800px;
+    margin: -130px 0 0 110px;
+}
+
+.card3 {
+    position: absolute;
+    width: 900px;
+    margin: 140px 0 0 70px;
+}
+
+
+
+#slider {
+    position: absolute; 
+    overflow: hidden; 
+    width: 1024px; 
+    height: 730px; 
+    margin: 20px auto; 
+    padding: 0; 
+    list-style: none;
+}
+.slide {
+    position: absolute; 
+    width: 100%; 
+    height: 100%; 
+    transition: all 1s ease-in 0.1s; 
+    left:0;}
+#first-slide {
+    left: -200%;
+}
+
+#second-slide {
+    left: -100%;
+}
+
+#third-slide {
+    left: 0%;
+
+}
+.years {
+    position: absolute; 
+    margin: 720px 0 0 200px; 
+    width: 600px;
+}
+.year {
+    position: absolute;
+    cursor: pointer; 
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: rgb(255,255,255);
+    font-family: Gotham Pro;
+}
+.active { 
+    display: inline;
+}
+.third {
+    right: 0;
+}
+.second {
+    right: 45%;
+}
+
+@font-face {
+    font-family: "Gotham Pro";
+    src: url("../fonts/GothamPro.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
